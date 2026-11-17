@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://vilabia.com';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://vilabia.es';
 
 export const dynamic = 'force-static';
 

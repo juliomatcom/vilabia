@@ -32,7 +32,7 @@ const JSON_LD = {
   educationalLevel: 'Principiante',
   teaches: 'Lectura labial en español',
   isAccessibleForFree: true,
-  url: 'https://vilabia.com/formas-de-la-boca',
+  url: 'https://vilabia.es/formas-de-la-boca',
 };
 
 const CONFUSABLE: readonly { readonly pair: string; readonly note: string }[] = [

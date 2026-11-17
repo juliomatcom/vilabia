@@ -36,11 +36,11 @@
 
 ## Deployment
 
-- Static site on GitHub Pages, custom domain `vilabia.com` (set in repo Settings → Pages; DNS points at GitHub).
+- Static site on GitHub Pages, custom domain `vilabia.es` (set in repo Settings → Pages; DNS points at GitHub).
 - `next.config.ts` sets `output: 'export'`; `pnpm build` writes `out/`. No server: no `headers()`, `cookies()`, route handlers.
 - Metadata routes (`robots.ts`, `sitemap.ts`, `manifest.ts`, `opengraph-image.tsx`) set `dynamic = 'force-static'`.
 - No `public/` dir; `assets/` is design reference, never shipped.
-- Production origin is `https://vilabia.com` — the `NEXT_PUBLIC_SITE_URL` default in code. See `architecture.md` SEO.
+- Production origin is `https://vilabia.es` — the `NEXT_PUBLIC_SITE_URL` default in code. See `architecture.md` SEO.
 
 ## Hard rules
 

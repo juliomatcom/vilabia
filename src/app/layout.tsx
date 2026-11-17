@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import { VoiceWarmup } from '@/components/voice';
 import './globals.css';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://vilabia.com';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://vilabia.es';
 const SITE_NAME = 'Vilabia';
 const DESCRIPTION =
   'Vilabia es una plataforma de logopedia online con ejercicios de lectura labial gratuitos. Practica reconocer palabras leyendo los labios de un avatar animado: ideal como apoyo de un logopeda infantil o de adultos, y para personas con pérdida auditiva o hipoacusia.';

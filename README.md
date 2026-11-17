@@ -3,7 +3,7 @@
 [![CI](https://github.com/juliomatcom/vilabia/actions/workflows/ci.yml/badge.svg)](https://github.com/juliomatcom/vilabia/actions/workflows/ci.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
-Free lipreading exercises in Spanish, at [vilabia.com](https://vilabia.com). An animated avatar says a word or a sentence without sound cues; you read its lips and answer. Built as a support tool for speech therapy and for people with hearing loss.
+Free lipreading exercises in Spanish, at [vilabia.es](https://vilabia.es). An animated avatar says a word or a sentence without sound cues; you read its lips and answer. Built as a support tool for speech therapy and for people with hearing loss.
 
 Text goes in, a timed sequence of visemes (mouth shapes) comes out, and a vector face articulates it. Everything runs in the browser.
 

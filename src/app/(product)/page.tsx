@@ -54,7 +54,7 @@ const JSON_LD = [
     '@context': 'https://schema.org',
     '@type': 'WebApplication',
     name: 'Vilabia',
-    url: 'https://vilabia.com',
+    url: 'https://vilabia.es',
     applicationCategory: 'EducationalApplication',
     operatingSystem: 'Web',
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },

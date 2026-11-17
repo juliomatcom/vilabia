@@ -1,0 +1,641 @@
+{
+  "credits": {
+    "encuentraFrase": "Alberto Abarca (presentaciones «Frases 1» y «Frases 2»)",
+    "ordena": "Alberto Abarca (presentaciones «Frases 1» y «Frases 2»)",
+    "porSilaba": "Cristina Vega y Goretti Rodríguez, logopedas («Frases por sílabas»)"
+  },
+  "porSilaba": [
+    {
+      "syllables": ["ba", "bo", "be", "bu", "bi"],
+      "sentences": [
+        "El abuelo bebe.",
+        "Pepe bota la pelota.",
+        "Mamá no tiene butano.",
+        "La abuela pone la bota a Lola.",
+        "El bebé tiene una bola."
+      ]
+    },
+    {
+      "syllables": ["va", "vi", "vo", "ve", "vu"],
+      "sentences": [
+        "La paloma vuela.",
+        "El abuelo bebe vino.",
+        "El oso viene y va.",
+        "El vaso tiene una bebida.",
+        "Mamá tiene una vela muy bonita."
+      ]
+    },
+    {
+      "syllables": ["ja", "jo", "je", "ji", "ju"],
+      "sentences": [
+        "La oveja da lana.",
+        "El jabalí tiene pelo.",
+        "Juana baila la jota.",
+        "Jaime baja la jaula.",
+        "La abuela toma jalea."
+      ]
+    },
+    {
+      "syllables": ["sa", "si", "se", "su", "so"],
+      "sentences": ["Lola esta sola.", "Lola sale sola.", "La ola sale sola.", "La osa sale sola."]
+    },
+    {
+      "syllables": ["ma", "mu", "me", "mi", "mo"],
+      "sentences": [
+        "Lola suma.",
+        "La mamá osa.",
+        "La mamá miau.",
+        "La mula lame.",
+        "Lola le lee a su mamá."
+      ]
+    },
+    {
+      "syllables": ["pi", "pa", "pu", "pe", "po"],
+      "sentences": [
+        "Papá se pasea.",
+        "Papá pasea a Lola.",
+        "La osa pisa la pala.",
+        "La mula lame a Pepe.",
+        "Papá usa la lupa."
+      ]
+    },
+    {
+      "syllables": ["to", "te", "ti", "ta", "tu"],
+      "sentences": [
+        "La tía toma té.",
+        "Papá tapa la mesa.",
+        "La pata pasea a su pato.",
+        "Lola tapa a su osito.",
+        "Miau lame la pelota."
+      ]
+    },
+    {
+      "syllables": ["na", "ni", "nu", "no", "ne"],
+      "sentences": [
+        "Lola toma nata.",
+        "Mamá no la toma.",
+        "El mono mete la mano.",
+        "El patito patina.",
+        "La pata tiene pena."
+      ]
+    },
+    {
+      "syllables": ["do", "di", "da", "du", "de"],
+      "sentences": [
+        "Mamá lee de día.",
+        "Papá da el dado a Lola.",
+        "Pepe tiene una diana.",
+        "Al osito le duele el dedo.",
+        "La paloma tapa el nido."
+      ]
+    },
+    {
+      "syllables": ["ha", "he", "hu", "hi", "ho"],
+      "sentences": [
+        "El vaso tiene hielo.",
+        "Pepe pide un helado.",
+        "Lola tiene hielo en su mano.",
+        "La paloma puso un huevo.",
+        "De la pipa sale humo."
+      ]
+    },
+    {
+      "syllables": ["fo", "fu", "fa", "fi", "fe"],
+      "sentences": [
+        "La navaja tiene filo.",
+        "Felipe tiene familia en Toledo.",
+        "El jabalí tiene el pelo feo.",
+        "Papá se toma un filete.",
+        "Jaime ve una foto de Felipe."
+      ]
+    },
+    {
+      "syllables": ["ra", "re", "ro", "ri", "ru"],
+      "sentences": [
+        "Mamá huele una rosa.",
+        "La rata roe la mesa.",
+        "Pepe vio una rana en el río.",
+        "La rueda es roja.",
+        "Rosa es la tía de Felipe."
+      ]
+    },
+    {
+      "syllables": ["lla", "llu", "lle", "llo", "lli"],
+      "sentences": [
+        "La lluvia baja de las nubes.",
+        "De la llama sale humo.",
+        "El bebé llora y rie.",
+        "Mete las llaves en el llavero.",
+        "Lola sube y baja de las sillas."
+      ]
+    },
+    {
+      "syllables": ["che", "cho", "cha", "chu", "chi"],
+      "sentences": [
+        "Jaime sube a los chopos.",
+        "El bebé lleva chupete rojo.",
+        "Pepé chuta la pelota.",
+        "Lola tiene una chapa.",
+        "El chino se va a la China."
+      ]
+    },
+    {
+      "syllables": ["zo", "za", "zu", "ci", "ce"],
+      "sentences": [
+        "Lola lleva zapatos azules.",
+        "Papá bebe zumo de tomate.",
+        "El zorro tiene un rabo peludo.",
+        "Mi cepillo es rojo y azul.",
+        "Veo en el cielo una bonita luna."
+      ]
+    },
+    {
+      "syllables": ["ja", "gi", "jo", "ge", "ju"],
+      "sentences": [
+        "Ese anillo es una joya.",
+        "Papá lleva unos gemelos.",
+        "El camello tiene jorobas.",
+        "La gitana baila.",
+        "Jaime juega a las canicas."
+      ]
+    },
+    {
+      "syllables": ["ño", "ña", "ñu", "ñi", "ñe"],
+      "sentences": [
+        "La niña es guapa.",
+        "La piña tiene piñones.",
+        "Mamá se ha roto la uña.",
+        "Lola peina a su muñeca.",
+        "Osito es el oso pequeño."
+      ]
+    },
+    {
+      "syllables": ["xa", "xe", "xi", "xo", "xu"],
+      "sentences": [
+        "María sube al taxi.",
+        "Pepe toca el xilófono.",
+        "El buzo lleva oxígeno.",
+        "Jaime hace un dibujo de boxeo.",
+        "Ese hierro se ha oxidado."
+      ]
+    },
+    {
+      "syllables": ["yo", "ye", "ya", "yi", "yu"],
+      "sentences": [
+        "La yema es amarilla.",
+        "El yoyó sube y baja.",
+        "Lola metió la mano en el yeso.",
+        "El payaso lleva bata de rayas.",
+        "Jaime se marea en el yate."
+      ]
+    },
+    {
+      "syllables": ["co", "que", "qui", "cu", "ca"],
+      "sentences": [
+        "El camarero lleva unos vasos.",
+        "La nena llora en la cuna.",
+        "Papá sube al coche.",
+        "El queso se hace de leche.",
+        "Quique cuida los tomates."
+      ]
+    },
+    {
+      "syllables": ["ga", "gue", "gui", "go", "gu"],
+      "sentences": [
+        "Papá toca la guitarra.",
+        "Mamá guisa la comida.",
+        "El gusano come hojas.",
+        "Miau es un gatito.",
+        "Jaime tiene muchos juguetes."
+      ]
+    }
+  ],
+  "encuentraFrase": {
+    "frases_1": [
+      {
+        "slide": 15,
+        "target": "Marina se miraba al espejo todo el día",
+        "cards": [
+          "Marina limpiaba el espejo cada día",
+          "Marina se miraba al espejo todo el día",
+          "Marina se miraba al espejo solo un día",
+          "Marina no limpiaba el espejo cada día"
+        ]
+      },
+      {
+        "slide": 14,
+        "target": "Mi gato no come espinas, solo come pienso",
+        "cards": [
+          "Mi gato no come espinas, solo come pienso",
+          "Mi gato no come espinas, pero come pienso",
+          "Mi pato no come espinas, solo come pienso",
+          "Mi gata no come espinas, solo come pienso"
+        ]
+      },
+      {
+        "slide": 13,
+        "target": "En la isla había un tesoro debajo de una roca",
+        "cards": [
+          "En la isla había un tesoro debajo de una roca",
+          "En su isla había un tesoro debajo de una roca",
+          "En su isla había un tesoro debajo de una foca",
+          "En su isla cabía un tesoro debajo de una roca"
+        ]
+      },
+      {
+        "slide": 12,
+        "target": "La noche estaba oscura y llena de ruidos",
+        "cards": [
+          "La noche seguía oscura y llena de ruidos",
+          "La cueva seguía oscura y llena de ruidos",
+          "La cueva estaba oscura y llena de ruidos",
+          "La noche estaba oscura y llena de ruidos"
+        ]
+      },
+      {
+        "slide": 11,
+        "target": "El armario de la ropa está cerrado y ordenado",
+        "cards": [
+          "El armario de su ropa está cerrado y ordenado",
+          "El armario de la ropa está cerrado y ordenado",
+          "El armario de tu ropa está cerrado y ordenado",
+          "El armario de su ropa está sellado y ordenado"
+        ]
+      },
+      {
+        "slide": 10,
+        "target": "En la rama más alta vive una familia de ardillas",
+        "cards": [
+          "En la cama más alta vive una familia de ardillas",
+          "En la rama más alta vive una familia de ardillas",
+          "En la cama más alta vive una pandilla de ardillas",
+          "En la rama más alta vive una pandilla de ardillas"
+        ]
+      },
+      {
+        "slide": 9,
+        "target": "Felipe ordena su estuche para ir al colegio",
+        "cards": [
+          "Felipe ordena su estuche para ir al colegio",
+          "Felipe arregla su enchufe para ir al colegio",
+          "Felipe arregla tu enchufe para ir al colegio",
+          "Felipe arregla su estuche para ir al colegio"
+        ]
+      },
+      {
+        "slide": 8,
+        "target": "La antena de mi casa está en el tejado más alto",
+        "cards": [
+          "La antena de mi casa está en el tejado más alto",
+          "La ventana de mi casa está en el tejado más alto",
+          "La ventana de mi casa está en un tejado muy alto",
+          "La antena de mi casa está en un tejado muy alto"
+        ]
+      },
+      {
+        "slide": 7,
+        "target": "Está muy enfadado porque no puede ir a jugar",
+        "cards": [
+          "Está muy enfadado porque se quiere ir a jugar",
+          "Está muy enfadado porque no puede ir a jugar",
+          "Está muy resfriado pero se quiere ir a jugar",
+          "Está muy enfadado porque no quiere ir a jugar"
+        ]
+      },
+      {
+        "slide": 6,
+        "target": "El león anda rápido cuando quiere comida",
+        "cards": [
+          "El león corre rápido cuando quiere comida",
+          "El león anda rápido cuando quiere comida",
+          "El león corre rápido cuando huele comida",
+          "El león anda rápido cuando huele comida"
+        ]
+      },
+      {
+        "slide": 5,
+        "target": "El indio está sentado en una manta de algodón",
+        "cards": [
+          "El indio está tumbado en una manta de algodón",
+          "El niño está tumbado en una manta de algodón",
+          "El niño está sentado en una manta de algodón",
+          "El indio está sentado en una manta de algodón"
+        ]
+      },
+      {
+        "slide": 4,
+        "target": "Empuja el carro con fuerza porque es muy pesado",
+        "cards": [
+          "Estira del carro con fuerza porque es muy pesado",
+          "Estira del carro con cuerda porque es muy pesado",
+          "Empuja el carro con fuerza porque es muy pesado",
+          "Estira del carro con ruedas porque es muy pesado"
+        ]
+      },
+      {
+        "slide": 3,
+        "target": "Mi tía está embarazada de cinco meses",
+        "cards": [
+          "Mi tía está embarazada de cinco meses",
+          "Su tía está embarazada de siete meses",
+          "Tu tía está embarazada de cinco meses",
+          "Su tía está embarazada de cinco meses"
+        ]
+      },
+      {
+        "slide": 2,
+        "target": "La ambulancia hacía sonar la sirena en medio de la calle",
+        "cards": [
+          "La ambulancia hacía sonar la sirena en medio de la calle",
+          "La ambulancia hacía sonar su sirena en medio de la calle",
+          "La ambulancia hizo sonar su sirena en medio de la calle",
+          "La ambulancia hizo sonar la sirena en medio de la calle"
+        ]
+      },
+      {
+        "slide": 1,
+        "target": "Me gusta la empanada de atún con tomate",
+        "cards": [
+          "Me gusta la ensalada de atún con tomate",
+          "Me gusta la ensalada de atún sin tomate",
+          "Me gusta la empanada de atún sin tomate",
+          "Me gusta la empanada de atún con tomate"
+        ]
+      }
+    ],
+    "frases_2": [
+      {
+        "slide": 25,
+        "target": "Los patitos nadaban cerca de la orilla",
+        "cards": [
+          "Los patitos nadaban cerca de la orilla",
+          "Los patitos jugaban cerca de la orilla",
+          "Los pajaritos nadaban cerca de tu orilla",
+          "Los patitos nadaban cerca de tu orilla"
+        ]
+      },
+      {
+        "slide": 24,
+        "target": "Hemos visto un búho en el hueco del torreón",
+        "cards": [
+          "Hemos visto un búho en el hueco del torreón",
+          "Hemos visto un búho en el techo del torreón",
+          "Hemos visto un búho en el techo del barracón",
+          "Hemos visto un búho en el hueco del barracón"
+        ]
+      },
+      {
+        "slide": 23,
+        "target": "En la fiesta de Ana había una tarta enorme",
+        "cards": [
+          "En la siesta de Ana había una tarta enorme",
+          "En la siesta de Ana había una torta enorme",
+          "En la fiesta de Ana había una torta enorme",
+          "En la fiesta de Ana había una tarta enorme"
+        ]
+      },
+      {
+        "slide": 22,
+        "target": "Todos los niños querían jugar con mi perro",
+        "cards": [
+          "Todas las niñas querían jugar con mi perra",
+          "Todos los niños querían jugar con mi perro",
+          "Todas las niñas querían jugar con mi perro",
+          "Todos los niños querían jugar con mi perra"
+        ]
+      },
+      {
+        "slide": 21,
+        "target": "La película ha terminado a la una de la noche",
+        "cards": [
+          "La película ha acabado a la una de la noche",
+          "La película ha terminado a la una de la noche",
+          "La película ha acabado a las dos de la noche",
+          "La canícula ha terminado a la una de la noche"
+        ]
+      },
+      {
+        "slide": 20,
+        "target": "El armario de la ropa está cerrado y ordenado",
+        "cards": [
+          "El armario de la ropa está cerrado y ordenado",
+          "El armario de la sopa está cerrado y ordenado",
+          "El armario de la sopa está cercado y ordenado",
+          "El andamio de la ropa está cerrado y ordenado"
+        ]
+      },
+      {
+        "slide": 19,
+        "target": "Felipe ordena su estuche para ir al colegio",
+        "cards": [
+          "Felipe ordena su estuche para ir al colegio",
+          "Felipe ordena su enchufe para ir al colegio",
+          "Felipe arregla su enchufe para ir al colegio",
+          "Felipe arregla su estuche para ir al colegio"
+        ]
+      },
+      {
+        "slide": 18,
+        "target": "Las leonas cuidan de sus jóvenes cachorros",
+        "cards": [
+          "Los leones cuidan de sus jóvenes cacharros",
+          "Las leonas cuidan de sus jóvenes cachorros",
+          "Las leonas cuidan de sus jóvenes cacharros",
+          "Los leones cuidan de sus jóvenes cachorros"
+        ]
+      },
+      {
+        "slide": 17,
+        "target": "El río ha estado helado casi todo el invierno",
+        "cards": [
+          "El tío ha estado pelado casi todo el invierno",
+          "El río ha estado helado casi todo el invierno",
+          "El río ha estado pelado casi todo el invierno",
+          "El tío ha estado helado casi todo el invierno"
+        ]
+      },
+      {
+        "slide": 16,
+        "target": "Iremos de vacaciones con mi abuela materna",
+        "cards": [
+          "Iremos de vacaciones con mi abuela materna",
+          "Iremos de vacaciones con mi abuelo paterno",
+          "Iremos de vacaciones con mi abuela paterna",
+          "Iremos de votaciones con mi abuelo paterno"
+        ]
+      },
+      {
+        "slide": 15,
+        "target": "El fontanero arregló el grifo de la cocina",
+        "cards": [
+          "El montañero arregló el grito de la cocina",
+          "El montañero arregló el grifo de la cocina",
+          "El fontanero arregló el grifo de la tocina",
+          "El fontanero arregló el grifo de la cocina"
+        ]
+      },
+      {
+        "slide": 14,
+        "target": "¿Cuánto te han costado las botas de fútbol?",
+        "cards": [
+          "¿Cuánto le han costado las botas de fútbol?",
+          "¿Cuánto te han costado las botas de fútbol?",
+          "¿Cuánto te han tardado las bolas de fútbol?",
+          "¿Cuánto te han tardado las botas de fútbol?"
+        ]
+      },
+      {
+        "slide": 13,
+        "target": "¿Sabes dónde está la pelota de baloncesto?",
+        "cards": [
+          "¿Sabes dónde está la pelota de balonmano?",
+          "¿Sabéis dónde está la pelota de balonmano?",
+          "¿Sabéis dónde está la pelota de baloncesto?",
+          "¿Sabes dónde está la pelota de baloncesto?"
+        ]
+      },
+      {
+        "slide": 12,
+        "target": "Quiero aprender a dividir por dos cifras",
+        "cards": [
+          "Quiere atender a dividir por dos cifras",
+          "Quiero aprender a dividir por dos cifras",
+          "Quiero atender a dividir por dos cifras",
+          "Quiere aprender a dividir por dos cifras"
+        ]
+      },
+      {
+        "slide": 11,
+        "target": "Su bicicleta se estropeó al final de la cuesta",
+        "cards": [
+          "Tu bicicleta se estropeó al final de la cuesta",
+          "Tu bicicleta se estropeó al final de la apuesta",
+          "Su bicicleta se estropeó al final de la cuesta",
+          "Su bicicleta se estropeó al final de la apuesta"
+        ]
+      },
+      {
+        "slide": 10,
+        "target": "En casa de mi abuela no se ve bien la tele",
+        "cards": [
+          "En casa de mi abuela no se ve bien la tele",
+          "En casa de mi abuelo no se ve bien la peli",
+          "En casa de mi abuelo no se ve bien la tele",
+          "En casa de mi abuela no se ve bien la peli"
+        ]
+      },
+      {
+        "slide": 9,
+        "target": "Todas queremos que gane nuestro equipo",
+        "cards": [
+          "Todas queremos que gane vuestro equipo",
+          "Todos queremos que gane vuestro equipo",
+          "Todos queremos que gane nuestro equipo",
+          "Todas queremos que gane nuestro equipo"
+        ]
+      },
+      {
+        "slide": 8,
+        "target": "Esta noche he soñado que volaba en globo",
+        "cards": [
+          "Esta noche ha soñado que volaba en globo",
+          "Esta noche ha soñado que soplaba un globo",
+          "Esta noche he soñado que volaba en globo",
+          "Esta noche he soñado que soplaba un globo"
+        ]
+      },
+      {
+        "slide": 7,
+        "target": "Cuanto más lo miro menos me gusta su color",
+        "cards": [
+          "Cuanto más lo mira menos le gusta su calor",
+          "Cuanto más lo miro menos me gusta su color",
+          "Cuanto más lo miro menos me gusta su calor",
+          "Cuanto más lo mira menos le gusta su color"
+        ]
+      },
+      {
+        "slide": 6,
+        "target": "¿Has probado las empanadillas de la abuela?",
+        "cards": [
+          "¿Has probado las empanadillas de la abuela?",
+          "¿Han robado las empanadillas de la abuela?",
+          "¿Has robado las empanadillas de la abuela?",
+          "¿Han probado las empanadillas de la abuela?"
+        ]
+      },
+      {
+        "slide": 5,
+        "target": "No hemos encontrado naranjas a buen precio",
+        "cards": [
+          "No hemos encontrado naranjas a buen precio",
+          "No hemos encontrado naranjos a buen precio",
+          "No hemos recordado naranjos a buen precio",
+          "No hemos recordado naranjas a buen precio"
+        ]
+      },
+      {
+        "slide": 4,
+        "target": "Subieron al tejado para arreglar la antena",
+        "cards": [
+          "Subieron al tejado para aserrar la antena",
+          "Salieron al tejado para aserrar la antena",
+          "Salieron al tejado para arreglar la antena",
+          "Subieron al tejado para arreglar la antena"
+        ]
+      },
+      {
+        "slide": 3,
+        "target": "Vendrán a recogernos en el coche de mi tía",
+        "cards": [
+          "Vendrán a recogernos en el coche de mi tía",
+          "Vendrá a recogernos en el coche de mi tía",
+          "Vendrá a recogernos en el coche de mi tío",
+          "Vendrán a recogernos en el coche de mi tío"
+        ]
+      },
+      {
+        "slide": 2,
+        "target": "Todos quieren ser los primeros de la fila",
+        "cards": [
+          "Todos pueden ser los primeros de la cola",
+          "Todos quieren ser los primeros de la fila",
+          "Todos pueden ser los primeros de la fila",
+          "Todos quieren ser los primeros de la cola"
+        ]
+      },
+      {
+        "slide": 1,
+        "target": "En el bar de la playa solo daban bocadillos",
+        "cards": [
+          "En el bar de la playa solo daban bocadillos",
+          "En el bar de la plaza solo daban bocaditos",
+          "En el bar de la plaza solo daban bocadillos",
+          "En el bar de la playa solo daban bocaditos"
+        ]
+      }
+    ]
+  },
+  "ordena": [
+    "En la isla había un tesoro debajo de una roca.",
+    "Su pelota estaba encima de la enredadera.",
+    "El paraguas de mi hermano no es de tela.",
+    "Subía por la escalera como si fuera un mono.",
+    "Estaba comiendo pollo asado con ensalada.",
+    "En casa de mi abuela no se ve bien la tele.",
+    "La semana pasada estuvimos de vacaciones.",
+    "El bocadillo de la merienda no estaba bueno.",
+    "Toda mi familia vive en el mismo barrio.",
+    "La película empezaba a las siete y media.",
+    "Yo no sabía quien era mi nueva vecina.",
+    "Hemos estado a oscuras toda la mañana.",
+    "El sábado pasado hicimos un viaje en familia.",
+    "La sopa de fideos estaba demasiado caliente.",
+    "Solo teníamos nueve jugadores en el equipo.",
+    "La camiseta de mi colegio es amarilla.",
+    "Es importante que no pierdas las ganas de trabajar.",
+    "El próximo domingo estrenan una película buenísima.",
+    "Los bomberos no pudieron apagar el incendio del bosque.",
+    "Dame el lápiz rojo para marcar la respuesta correcta."
+  ]
+}
